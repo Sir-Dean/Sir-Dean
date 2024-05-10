@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a Video Game that is somewhere in the Fighting Genre
 - 📫 You can reach me on discord at sirdean_
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am also a 3D Generalist
+- ⚡ Fun fact: Not fun
 
 <!---
 Sir-Dean/Sir-Dean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
